@@ -25,10 +25,10 @@ def task_2():
         longest_name = max(users, key=len)
         print(f"User with the longest name: {longest_name}")
 
-    user1 = input("Enter first user to check: ")
+    user1 = input("Enter first.py user to check: ")
     user2 = input("Enter second user to check: ")
     print(f"Do both exist? {user1 in users and user2 in users}")
 
-    print(f"Selected portion (first 2 users): {sorted_users[:2]}")
+    print(f"Selected portion (first.py 2 users): {sorted_users[:2]}")
 
 task_2()

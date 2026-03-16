@@ -186,7 +186,7 @@ def slicing_exercises():
     # Expected: [15, 12, 9, 6, 3]
     print(f"IV: Rev every 3rd: {s_list[::-3]}")
 
-    # VIII: All except first and last
+    # VIII: All except first.py and last
     # Expected: [2, 3, ... 14]
     print(f"VIII: Middle: {s_list[1:-1]}")
 
