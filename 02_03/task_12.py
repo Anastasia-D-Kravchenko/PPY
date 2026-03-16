@@ -1,0 +1,6 @@
+print(bool(1))
+print(bool(0))
+print(bool(100))
+print(bool(""))
+print(bool("I have a cat"))
+print(bool(0.5))
